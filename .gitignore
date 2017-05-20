@@ -34,6 +34,7 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
+bower_components
 
 # Optional npm cache directory
 .npm
@@ -80,3 +81,5 @@ GitHub.sublime-settings
 # Generated files
 public/js/bundle.js
 public/js/bundle.js.map
+
+.vscode

@@ -1,0 +1,24 @@
+{
+  "name": "admin-lte-react",
+  "description": "A simple project teamplte with Express, React and AdminLTE",
+  "main": "server.js",
+  "authors": [
+    "Michael Fiford"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/MetalMichael/admin-lte-react",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.11",
+    "font-awesome": "^4.7.0",
+    "Ionicons": "ionicons#^2.0.1",
+    "jquery": "^3.2.1"
+  }
+}
